@@ -1,5 +1,4 @@
-## The submission
-
+## Proposal: Software Carpentry R Instutor Training 
 
 #### The problem
 
@@ -26,10 +25,10 @@
 
 #### Budget
 
-Please note that the budget for the ISC is currently limited. We are
-likely to fund one or two projects with a budget of $20-30k projects,
-and handful of projects with budgets of of $5-10k. We do not pay
-overhead.
+> Please note that the budget for the ISC is currently limited. We are
+> likely to fund one or two projects with a budget of $20-30k
+> projects, and handful of projects with budgets of of $5-10k. We do
+> not pay overhead.
 
 #### Dissemination
 
