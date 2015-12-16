@@ -15,5 +15,5 @@ The R consortium invites the community to submit
 
 * Deadline: 10 January 2016
 * 2-5 pages
-* see [proposal.md](proposal.md)
+* [Proposal](SC-ISC-proposal.md)
 * To be email to proposal@r-consortium.org
