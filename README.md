@@ -22,7 +22,10 @@ Carpentry or Software Carpentry?
 
 
 If you have questions of comments, please open an
-[issue](https://github.com/lgatto/SC-ICS-Proposal/issues).
+[issue](https://github.com/lgatto/SC-ICS-Proposal/issues). Would you
+be interested in helping out? Please send open issues and send pull
+requests. In participating in the instructor course? Add
+[yourself](participants.md).
 
 
 * Deadline: 10 January 2016
