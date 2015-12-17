@@ -45,6 +45,11 @@ would require participants to demonstrate good knowledge of R and,
 ideally, them to be familiar with Software and Data Carpentry teaching
 techniques.
 
+Need to detail how this will be R specific:
+- concentrate on R modules
+- could suggest to prepare/contribute to R Sc/DC teaching material as
+  part of the course
+
 The online instructor training will be open (free). What format:
 running over eight weeks or running over two full days? Individuals or
 groups (4-6 people)?
