@@ -1,4 +1,4 @@
-## Proposal: Software Carpentry R Instutor Training 
+## Proposal: Software Carpentry R Instrutor Training 
 
 #### The problem
 
