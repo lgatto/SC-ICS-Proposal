@@ -17,7 +17,12 @@ The R consortium invites the community to submit
 Funding for an
 [instructor training](https://swcarpentry.github.io/instructor-training/)
 for people from the R community who want to teach R-based Data
-Carpentry or Software Carpentry?
+Carpentry or Software Carpentry?  
+
+
+
+If you have questions of comments, please open an
+[issue](https://github.com/lgatto/SC-ICS-Proposal/issues).
 
 
 * Deadline: 10 January 2016
