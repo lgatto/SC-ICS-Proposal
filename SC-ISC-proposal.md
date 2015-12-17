@@ -70,8 +70,8 @@ course.
 > projects, and handful of projects with budgets of of $5-10k. We do
 > not pay overhead.
 
-We request a budget of $10K for the organisation of the onlinen
-course. 
+We request a budget of $10K for the organisation of the online
+course. Details...
 
 #### Dissemination
 
