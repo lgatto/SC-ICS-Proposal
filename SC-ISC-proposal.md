@@ -41,9 +41,9 @@ organised several instructor trainings and has accumulated substantial
 experience
 [[1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
 [2](http://software-carpentry.org/blog/2015/11/december-2015-team-selection-2015-11-24.html)]. We
-would require participants to demonstrate intermediate skills in R
-and, ideally, them to be familiar with Software and Data Carpentry
-teaching techniques.
+would require participants to demonstrate good knowledge of R and,
+ideally, them to be familiar with Software and Data Carpentry teaching
+techniques.
 
 The online instructor training will be open (free). What format:
 running over eight weeks or running over two full days? Individuals or
