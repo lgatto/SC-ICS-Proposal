@@ -13,11 +13,12 @@ The R consortium invites the community to submit
 > collaboration tools for groups who would like to study more
 > ambitious projects.
 
-[Suggestion](http://lists.software-carpentry.org/pipermail/r-discuss_lists.software-carpentry.org/2015-December/000355.html):
-Obtain funding for a round of online
+[Suggestion](http://lists.software-carpentry.org/pipermail/r-discuss_lists.software-carpentry.org/2015-December/000354.html):
+Funding for an
 [instructor training](https://swcarpentry.github.io/instructor-training/)
-that is specific to instructors that would teach R-based SWC
-workshops.
+for people from the R community who want to teach R-based Data
+Carpentry or Software Carpentry?
+
 
 * Deadline: 10 January 2016
 * 2-5 pages
