@@ -9,12 +9,12 @@
 > support from a member of R core.
 
 R is in high demand - an ever increasing number of people from various
-domains (sciences, humanities, economics, ...) want to learn it or
-improve their skills. While there is an enormous amount of R teaching
-material, commercial as well as
+domains are keen to learn it and further improve their skills. While
+there is an enormous amount of R teaching material, commercial as well
+as
 [freely available](http://swcarpentry.github.io/r-novice-inflammation/),
-the availability of qualified instructors who possess skills in R and
-in effective teaching, is not readily available.
+qualified instructors who possess skills in R and in effective
+teaching methodology, is not widely available.
 
 #### The plan
 
@@ -39,22 +39,22 @@ Q3 2016. The exact date will be chosen so as to maximise the
 participation of participants. The Software Carpentry has already
 organised several instructor trainings and has accumulated substantial
 experience
-[[1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
-[2](http://software-carpentry.org/blog/2015/11/december-2015-team-selection-2015-11-24.html)]. We
+([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
+[2](http://software-carpentry.org/blog/2015/11/december-2015-team-selection-2015-11-24.html)). We
 would require participants to demonstrate good knowledge of R and,
-ideally, them to be familiar with Software and Data Carpentry teaching
+ideally, to be familiar with Software and Data Carpentry teaching
 techniques.
 
 Need to detail how this will be R specific:
 - concentrate on R modules
-- could suggest to prepare/contribute to R Sc/DC teaching material as
-  part of the course
+- could suggest to prepare/contribute and distribute to R SC/DC
+  teaching material as part of the course
 
 The online instructor training will be open (free). What format:
 running over eight weeks or running over two full days? Individuals or
 groups (4-6 people)?
 
-Mentoring.
+What about mentoring?
 
 #### How can the ISC help
 
@@ -87,10 +87,12 @@ course. Details...
 > consortium blog: once to announce the project, and one to write up
 > what you achieved.
 
-We will reply on the main R, Software Sustainability Institut and
+We will rely on the main R, Software Sustainability Institut and
 Software/Data Carpentry discussion channels to advertise the
-instructor course. The material is available CC-BY license. The names
-of the newly trained instructors will be advertised widely for them
+instructor course. The material is available CC-BY license; so will
+any additional material prepared for this R-specific event. The names
+of the newly trained instructors will be advertised widely for them to
 further disseminate what they have learned. The event will broadcast
 the course and its outcome broadly over social media and through blog
-posts on the R consortium, Software Carpentry blogs, ...
+posts on the R consortium, Software Carpentry blogs and local
+communities.
