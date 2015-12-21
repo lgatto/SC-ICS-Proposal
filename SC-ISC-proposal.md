@@ -87,7 +87,7 @@ course. Details...
 > consortium blog: once to announce the project, and one to write up
 > what you achieved.
 
-We will rely on the main R, Software Sustainability Institut and
+We will rely on the main R, Software Sustainability Institute and
 Software/Data Carpentry discussion channels to advertise the
 instructor course. The material is available CC-BY license; so will
 any additional material prepared for this R-specific event. The names
