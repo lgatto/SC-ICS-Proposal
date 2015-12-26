@@ -40,10 +40,13 @@ participation of participants. The Software Carpentry has already
 organised several instructor trainings and has accumulated substantial
 experience
 ([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
-[2](http://software-carpentry.org/blog/2015/11/december-2015-team-selection-2015-11-24.html)). We
+[2 (currently 404)](http://software-carpentry.org/blog/2015/11/december-2015-team-selection-2015-11-24.html),
+[3](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)). We
 would require participants to demonstrate good knowledge of R and,
 ideally, to be familiar with Software and Data Carpentry teaching
 techniques.
+
+(More relevant links: )
 
 Need to detail how this will be R specific:
 - concentrate on R modules
@@ -52,7 +55,7 @@ Need to detail how this will be R specific:
 
 The online instructor training will be open (free). What format:
 running over eight weeks or running over two full days? Individuals or
-groups (4-6 people)?
+groups (4-6 people)? See [here](http://software-carpentry.org/blog/2015/12/three-flavors-of-instructor-training.html).
 
 What about mentoring?
 
