@@ -6,3 +6,4 @@
 | Dirk Eddelbuettel     | Debian and R               | US        | Package developer | SC instructor, DC registered |
 | Stephen Eglen         | University of Cambridge    | UK        | Package developer | SC instructor            |
 | Silvia Hadeler        | Open University            | UK        | Advanced R user   |                          |
+| John Davey            | University of Cambridge    | UK        | Tutor             | Attended workshop, read some material |
