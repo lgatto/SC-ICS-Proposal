@@ -52,7 +52,7 @@ that is focused on teaching R programming:
 
 
 The exact date and location will be chosen so as to maximise possible
-participation and adequacy of the hosting organisation [^1]. Software
+participation and adequacy of the hosting organisation. Software
 Carpentry has already organised several instructor training courses,
 and has accumulated substantial experience
 ([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
@@ -60,12 +60,6 @@ and has accumulated substantial experience
 would require participants to demonstrate good knowledge of R and,
 ideally, to also be familiar with Software and Data Carpentry teaching
 techniques.
-
-[^1]: the location of the instructor training is currently open for
-    suggestions. Suggestions include the useR conference or the
-    Cambridge University Bioinformatics training facility. See this
-    [issue](https://github.com/lgatto/SC-ICS-Proposal/issues/9) for
-    details and discussions.
 
 While the instructor course is not targeted towards any specific
 programming language and focuses on education psychology and
@@ -79,6 +73,13 @@ of the course exercises and assignments will be directly beneficial to
 R community, as they will be directly applicable to existing R
 teaching material, in particular the openly available Software and
 Data Carpentry material.
+
+The location of the instructor training is currently open for
+discussion. Current suggestions include, but are not limited to, the
+useR conference or the Cambridge University Bioinformatics training
+facility. See this
+[issue](https://github.com/lgatto/SC-ICS-Proposal/issues/9) for
+details and discussions.
 
 #### How can the ISC help
 
