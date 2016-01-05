@@ -54,12 +54,19 @@ that is focused on teaching R programming:
 > to computational instruction. It is necessarily shallow, but we hope
 > it will be useful and convince you to learn more.*
 
-The exact date and location will be chosen so as to maximise possible
-participation and adequacy of the hosting organisation and there will
-be places for 20-24 participants. The location of the instructor
-training is currently open for discussion. Current suggestions
-include, but are not limited to, a useR conference or the Cambridge
-University Bioinformatics training facility (see this
+The exact date and location will be chosen so as to maximise and
+diversify participation, according to adequacy of the hosting
+organisation. We will offer 20-24 places. Participants will be
+required to demonstrate good knowledge of R and, ideally, to also be
+familiar with Software and Data Carpentry teaching techniques. We will
+also ask for a commitment from instructors being trained to go back to
+their home institutions and deliver a workshop within 6-12 months, so
+as to maximise the impact of our effort.
+
+The location of the instructor training is currently open for
+discussion. Current suggestions include, but are not limited to, a
+useR conference or the Cambridge University Bioinformatics training
+facility (see this
 [issue](https://github.com/lgatto/SC-ICS-Proposal/issues/9) for
 details and discussions). Host organisation will need to provide a
 room with AV and a white board or flip chart, including, if possible,
@@ -77,13 +84,6 @@ of the course exercises and assignments will be directly beneficial to
 R community, as they will be directly applicable to existing R
 teaching material, in particular the openly available Software and
 Data Carpentry material.
-
-We will require participants to demonstrate good knowledge of R and,
-ideally, to also be familiar with Software and Data Carpentry teaching
-techniques. We will also ask for a commitment form instructors being
-trained to go back to their home institutions and deliver a workshop
-within 6-12 months, so as to maximise the impact of our effort.
-
 
 #### How can the ISC help
 
