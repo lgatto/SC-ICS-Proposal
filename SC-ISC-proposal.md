@@ -30,7 +30,11 @@ skills they need to get more done in less time and with less pain.*
 The quality and success of the Software and Data Carpentry bootcamps
 is assured by high-quality, pedagogically sound, collaboratively
 developed and openly-available teaching material and **instructors**,
-who themselves are trained in effective teaching methodology.
+who themselves are trained in effective teaching methodology. The
+Software Carpentry has already organised several instructor training
+courses, and has accumulated substantial experience
+([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
+[2](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)).
 
 #### The plan
 
@@ -38,7 +42,7 @@ who themselves are trained in effective teaching methodology.
 > you will take and an estimated timeline. What are likely failure
 > modes and how will you recover from them?
 
-We would like to organise an in-person
+We would like to organise a 2-day in-person
 [Software Carpentry instructor training](https://swcarpentry.github.io/instructor-training/)
 that is focused on teaching R programming:
 
@@ -50,16 +54,16 @@ that is focused on teaching R programming:
 > to computational instruction. It is necessarily shallow, but we hope
 > it will be useful and convince you to learn more.*
 
-
 The exact date and location will be chosen so as to maximise possible
-participation and adequacy of the hosting organisation. Software
-Carpentry has already organised several instructor training courses,
-and has accumulated substantial experience
-([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
-[2](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)). We
-would require participants to demonstrate good knowledge of R and,
-ideally, to also be familiar with Software and Data Carpentry teaching
-techniques.
+participation and adequacy of the hosting organisation and there will
+be places for 20-24 participants. The location of the instructor
+training is currently open for discussion. Current suggestions
+include, but are not limited to, a useR conference or the Cambridge
+University Bioinformatics training facility (see this
+[issue](https://github.com/lgatto/SC-ICS-Proposal/issues/9) for
+details and discussions). Host organisation will need to provide a
+room with AV and a white board or flip chart, including, if possible,
+breakout space for small group activities.
 
 While the instructor course is not targeted towards any specific
 programming language and focuses on education psychology and
@@ -74,12 +78,12 @@ R community, as they will be directly applicable to existing R
 teaching material, in particular the openly available Software and
 Data Carpentry material.
 
-The location of the instructor training is currently open for
-discussion. Current suggestions include, but are not limited to, the
-useR conference or the Cambridge University Bioinformatics training
-facility. See this
-[issue](https://github.com/lgatto/SC-ICS-Proposal/issues/9) for
-details and discussions.
+We will require participants to demonstrate good knowledge of R and,
+ideally, to also be familiar with Software and Data Carpentry teaching
+techniques. We will also ask for a commitment form instructors being
+trained to go back to their home institutions and deliver a workshop
+within 6-12 months, so as to maximise the impact of our effort.
+
 
 #### How can the ISC help
 
