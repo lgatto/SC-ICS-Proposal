@@ -31,14 +31,12 @@ The quality and success of the Software and Data Carpentry bootcamps
 is assured by high-quality, pedagogically sound, collaboratively
 developed and openly-available teaching material and **instructors**,
 who themselves are trained in effective teaching methodology. This
-training is organised by the Software Carpentry itself to assure a
+training is organised by the Software Carpentry itself to assure an
 evidence-based and coherent teaching methodology. It has already
 organised several instructor training courses, and has accumulated
 substantial experience
 ([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
 [2](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)).
-
-
 
 #### The plan
 
@@ -146,3 +144,4 @@ outcome broadly over social media and through blog posts on the R
 consortium, Software Carpentry blogs and local communities to (1)
 foster broad interest and diverse participation and (2) maximise the
 outcomes for the community in general and the participants themselves.
+
