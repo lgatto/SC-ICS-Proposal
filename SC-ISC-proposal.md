@@ -57,13 +57,12 @@ that is focused on teaching R programming:
 > it will be useful and convince you to learn more.*
 
 The exact date and location will be chosen so as to maximise and
-diversify participation, according to adequacy of the hosting
-organisation. We will offer 20-24 places. Participants will be
-required to demonstrate good knowledge of R and, ideally, to also be
-familiar with Software and Data Carpentry teaching techniques. We will
-also ask for a commitment from instructors being trained to go back to
-their home institutions and deliver a workshop within 6-12 months, so
-as to maximise the impact of our effort.
+diversify participation. We will offer 20-24 places. Participants will
+be required to demonstrate good knowledge of R and, ideally, to also
+be familiar with Software and Data Carpentry teaching techniques. We
+will also ask for a commitment from instructors being trained to go
+back to their home institutions and deliver a workshop within 6-12
+months, so as to maximise the impact of our effort.
 
 The location of the instructor training is currently open for
 discussion. Current suggestions include, but are not limited to, a
@@ -71,7 +70,7 @@ useR conference or the Cambridge University Bioinformatics training
 facility (see this
 [issue](https://github.com/lgatto/SC-ICS-Proposal/issues/9) for
 details and discussions). Host organisation will need to provide a
-room with AV and a white board or flip chart, including, if possible,
+room with AV and a white board or flip chart, as well as, if possible,
 breakout space for small group activities.
 
 While the instructor course is not targeted towards any specific
@@ -80,12 +79,14 @@ instructional design, this ISC-funded instructor would be dedicated to
 the R language. The training involves many practical activities where
 students are asked to illustrate the course concepts by developing
 specific examples and exercises related to their language and
-domains. In the frame of this course, the main language would be R and
-many domains relevant to Data Science in general. The R-based outputs
-of the course exercises and assignments will be directly beneficial to
-R community, as they will be directly applicable to existing R
-teaching material, in particular the openly available Software and
-Data Carpentry material.
+domains. In the frame of this course, the programming language would
+be R and many domains will be relevant to data science in general, and
+the R community in particular. The R-based outputs of the exercises
+and assignments will be directly beneficial to R community, as they
+will be directly applicable to many existing R teaching material, in
+particular the openly available
+[Software](http://swcarpentry.github.io/r-novice-inflammation/) and
+[Data Carpentry](http://www.datacarpentry.org/R-ecology/) material.
 
 #### How can the ISC help
 
@@ -106,8 +107,8 @@ logistics support from the host organisation.
 > projects, and handful of projects with budgets of of $5-10k. We do
 > not pay overhead.
 
-We request a total of **$10K**, including $8K for general revenue and
-$2K travel budget.
+We request a total of **$10K**, including $8K for general training
+revenue and $2K travel budget.
 
 Instructor training revenue go into the Software Carpentry general
 revenue that supports: (1) The Executive Director's salary (Jonah
@@ -132,7 +133,8 @@ support the travelling and accommodation of the course instructor.
 > consortium blog: once to announce the project, and one to write up
 > what you achieved.
 
-We will rely on the main R, Software Sustainability Institute and
+We will rely on the main R,
+[Software Sustainability Institute](http://software.ac.uk/) and
 Software/Data Carpentry discussion channels to advertise the
 instructor course. All the course materials (instructor training and R
 courses) are available CC-BY license; so will any additional material
