@@ -32,8 +32,9 @@ Carpentry or Software Carpentry?
 * John Blishak
 * Greg Wilson
 * David LeBauer
+* Jonah Duckles
 
-If you have questions of comments, please open an
+If you have questions or comments, please open an
 [issue](https://github.com/lgatto/SC-ICS-Proposal/issues). Would you
 be interested in helping out? Please open issues and send pull
 requests. Interested in participating in the instructor course? Add
