@@ -1,21 +1,24 @@
-## Proposal: Software Carpentry R Instructor Training 
+# R consortium ISC Proposal: Software Carpentry R Instructor Training 
 
-[Laurent Gatto](http://lgatto.github.io/about/), John Blishak, David
-LeBauer, [Greg Wilson](http://third-bit.com/greg-wilson.html) and
+[Laurent Gatto](http://lgatto.github.io/about/)[^1],
+[John Blishak](https://github.com/jdblischak),
+[David LeBauer](https://sites.google.com/site/dlebauer/),
+[Greg Wilson](http://third-bit.com/greg-wilson.html) and
 [Jonah Duckles](http://www.jduck.net/)
 
+[^1]: lg390@cam.ac.uk
 
-This proposal is publicly available
-[here](https://github.com/lgatto/SC-ICS-Proposal/blob/master/SC-ISC-proposal.md)
-and welcomes suggestions and contributions from the community.
+> This proposal is publicly available
+> [here](https://github.com/lgatto/SC-ICS-Proposal/blob/master/SC-ISC-proposal.md)
+> and welcomes suggestions and contributions from the community.
 
-#### The problem
+## The problem
 
-> What problem do you want to solve? Why is it a problem? Who does it
-> affect? What will solving the problem enable? This section should
-> include a brief summary of existing work, such as other packages. If
-> you are proposing a change to R itself, you must include a letter of
-> support from a member of R core.
+<!-- > What problem do you want to solve? Why is it a problem? Who does it -->
+<!-- > affect? What will solving the problem enable? This section should -->
+<!-- > include a brief summary of existing work, such as other packages. If -->
+<!-- > you are proposing a change to R itself, you must include a letter of -->
+<!-- > support from a member of R core. -->
 
 R is in high demand - an ever increasing number of people from various
 domains are keen to learn it and further improve their skills. While
@@ -47,11 +50,11 @@ and well received, and has accumulated substantial experience
 ([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
 [2](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)).
 
-#### The plan
+## The plan
 
-> How are you going to solve the problem? Include the concrete actions
-> you will take and an estimated timeline. What are likely failure
-> modes and how will you recover from them?
+<!-- > How are you going to solve the problem? Include the concrete actions -->
+<!-- > you will take and an estimated timeline. What are likely failure -->
+<!-- > modes and how will you recover from them? -->
 
 We would like to organise a 2-day in-person
 [Software Carpentry instructor training](https://swcarpentry.github.io/instructor-training/)
@@ -99,24 +102,24 @@ particular the openly available
 [Software](http://swcarpentry.github.io/r-novice-inflammation/) and
 [Data Carpentry](http://www.datacarpentry.org/R-ecology/) material.
 
-#### How can the ISC help
+## How can the ISC help
 
-> What can we do to help you? If you need money, how much? How will
-> you spend it? We expect that most of the budget will be on people,
-> but we will consider funding travel and equipment if you have good
-> justification. How can we help promote your project? How else could
-> we help?
+<!-- > What can we do to help you? If you need money, how much? How will -->
+<!-- > you spend it? We expect that most of the budget will be on people, -->
+<!-- > but we will consider funding travel and equipment if you have good -->
+<!-- > justification. How can we help promote your project? How else could -->
+<!-- > we help? -->
 
 We would like to request financial support from the ISC to organise
 and promote the course. In addition, we will also benefit from
 logistics support from the host organisation.
 
-#### Budget
+## Budget
 
-> Please note that the budget for the ISC is currently limited. We are
-> likely to fund one or two projects with a budget of $20-30k
-> projects, and handful of projects with budgets of of $5-10k. We do
-> not pay overhead.
+<!-- > Please note that the budget for the ISC is currently limited. We are -->
+<!-- > likely to fund one or two projects with a budget of $20-30k -->
+<!-- > projects, and handful of projects with budgets of of $5-10k. We do -->
+<!-- > not pay overhead. -->
 
 We request a total of **$10K**, including $8K for general training
 revenue and $2K travel budget.
@@ -135,14 +138,14 @@ web hosting, equipment, supplies etc. and (6) activities in lesser
 served communities around the world. The travelling budget will
 support the travelling and accommodation of the course instructor.
 
-#### Dissemination
+## Dissemination
 
-> How will you ensure that your work is available to the widest number
-> of people? What open source license will you use? How will host your
-> code so that others can contribute? How will you publicise your
-> work? We encourage you to plan at least two blog posts to the R
-> consortium blog: once to announce the project, and one to write up
-> what you achieved.
+<!-- > How will you ensure that your work is available to the widest number -->
+<!-- > of people? What open source license will you use? How will host your -->
+<!-- > code so that others can contribute? How will you publicise your -->
+<!-- > work? We encourage you to plan at least two blog posts to the R -->
+<!-- > consortium blog: once to announce the project, and one to write up -->
+<!-- > what you achieved. -->
 
 We will rely on the main R,
 [Software Sustainability Institute](http://software.ac.uk/) and
@@ -157,4 +160,3 @@ outcome broadly over social media and through blog posts on the R
 consortium, Software Carpentry blogs and local communities to (1)
 foster broad interest and diverse participation and (2) maximise the
 outcomes for the community in general and the participants themselves.
-
