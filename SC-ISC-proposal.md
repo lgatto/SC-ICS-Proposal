@@ -4,7 +4,7 @@
 [John Blishak](https://github.com/jdblischak),
 [David LeBauer](https://sites.google.com/site/dlebauer/),
 [Greg Wilson](http://third-bit.com/greg-wilson.html) and
-[Jonah Duckles](http://www.jduck.net/)
+[Jonah Duckles](http://jduck.net/cv)
 
 [^1]: lg390@cam.ac.uk
 
