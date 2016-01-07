@@ -1,5 +1,14 @@
 ## Proposal: Software Carpentry R Instructor Training 
 
+[Laurent Gatto](http://lgatto.github.io/about/), John Blishak, David
+LeBauer, [Greg Wilson](http://third-bit.com/greg-wilson.html) and
+[Jonah Duckles](http://www.jduck.net/)
+
+
+This proposal is publicly available
+[here](https://github.com/lgatto/SC-ICS-Proposal/blob/master/SC-ISC-proposal.md)
+and welcomes suggestions and contributions from the community.
+
 #### The problem
 
 > What problem do you want to solve? Why is it a problem? Who does it
@@ -33,8 +42,8 @@ developed and openly-available teaching material and **instructors**,
 who themselves are trained in effective teaching methodology. This
 training is organised by the Software Carpentry itself to assure an
 evidence-based and coherent teaching methodology. It has already
-organised several instructor training courses, and has accumulated
-substantial experience
+organised several instructor training courses which were well attended
+and well received, and has accumulated substantial experience
 ([1](http://software-carpentry.org/blog/2015/09/rebooting-instructor-training.html),
 [2](http://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html)).
 
@@ -56,13 +65,15 @@ that is focused on teaching R programming:
 > to computational instruction. It is necessarily shallow, but we hope
 > it will be useful and convince you to learn more.*
 
-The exact date and location will be chosen so as to maximise and
-diversify participation. We will offer 20-24 places. Participants will
-be required to demonstrate good knowledge of R and, ideally, to also
-be familiar with Software and Data Carpentry teaching techniques. We
-will also ask for a commitment from instructors being trained to go
-back to their home institutions and deliver a workshop within 6-12
-months, so as to maximise the impact of our effort.
+The exact date, location and list of
+[participants](https://github.com/lgatto/SC-ICS-Proposal/blob/master/participants.md)
+will be chosen so as to maximise and diversify participation. We will
+offer 20-24 places. Participants will be required to demonstrate good
+knowledge of R and, ideally, to also be familiar with Software and
+Data Carpentry teaching techniques. We will also ask for a commitment
+from instructors being trained to go back to their home institutions
+and deliver a workshop within 6-12 months, so as to maximise the
+impact of our effort.
 
 The location of the instructor training is currently open for
 discussion. Current suggestions include, but are not limited to, a
