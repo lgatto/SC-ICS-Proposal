@@ -18,6 +18,11 @@ The R consortium invites the community to submit
 * [Proposal](SC-ISC-proposal.md)
 * To be email to proposal@r-consortium.org
 
+> The proposal was
+> [submitted](https://github.com/lgatto/SC-ICS-Proposal/tree/submitted)
+> on Friday 8 January.
+
+
 ### Summary
 
 [Suggestion](http://lists.software-carpentry.org/pipermail/r-discuss_lists.software-carpentry.org/2015-December/000354.html):
