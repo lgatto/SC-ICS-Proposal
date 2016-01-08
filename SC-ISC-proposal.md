@@ -8,8 +8,8 @@
 
 [^1]: lg390@cam.ac.uk
 
-> This proposal is publicly available
-> [here](https://github.com/lgatto/SC-ICS-Proposal/blob/master/SC-ISC-proposal.md)
+> This proposal is
+> [publicly available](https://github.com/lgatto/SC-ICS-Proposal/blob/master/SC-ISC-proposal.md)
 > and welcomes suggestions and contributions from the community.
 
 ## The problem
