@@ -22,6 +22,7 @@ The R consortium invites the community to submit
 > [submitted](https://github.com/lgatto/SC-ICS-Proposal/tree/submitted)
 > on Friday 8 January.
 
+**Good news, we [got the grant](http://software-carpentry.org/blog/2016/03/r-consortium-training.html)!**
 
 ### Summary
 
