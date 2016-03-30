@@ -7,3 +7,4 @@
 | Stephen Eglen         | University of Cambridge    | UK        | Package developer | SC instructor            |
 | Silvia Hadeler        | Open University            | UK        | Advanced R user   |                          |
 | John Davey            | University of Cambridge    | UK        | Tutor             | Attended workshop, read some material |
+| Willem Ligtenberg     |                            | NL        | Package developer | Followed SC with interest |
