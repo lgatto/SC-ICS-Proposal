@@ -10,3 +10,4 @@
 | Willem Ligtenberg     |                            | NL        | Package developer | Followed SC with interest |
 | Patrick Applegate     | Penn State University      | US        | Advanced R user   | Followed SC with interest |
 | François Michonneau   | University of Florida      | US        | Package developer | SC and DC instructor      |
+| Robin Donatello       | Cal State Univ. Chico      | US        | Advanced R user   | None yet, teaching R in UG stats         |
