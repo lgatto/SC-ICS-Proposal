@@ -12,3 +12,4 @@
 | François Michonneau   | University of Florida      | US        | Package developer | SC and DC instructor      |
 | Robin Donatello       | Cal State Univ. Chico      | US        | Advanced R user   | None yet, teaching R in UG stats         |
 | W. Kyle Hamilton       | University of California, Merced     | US        | Package developer   | None yet, running workshops for R/Shiny |
+| Lisa Breckels         | University of Cambridge    | UK        | Package developer | Attended SC workshop |
