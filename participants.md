@@ -7,3 +7,9 @@
 | Stephen Eglen         | University of Cambridge    | UK        | Package developer | SC instructor            |
 | Silvia Hadeler        | Open University            | UK        | Advanced R user   |                          |
 | John Davey            | University of Cambridge    | UK        | Tutor             | Attended workshop, read some material |
+| Willem Ligtenberg     |                            | NL        | Package developer | Followed SC with interest |
+| Patrick Applegate     | Penn State University      | US        | Advanced R user   | Followed SC with interest |
+| François Michonneau   | University of Florida      | US        | Package developer | SC and DC instructor      |
+| Robin Donatello       | Cal State Univ. Chico      | US        | Advanced R user   | None yet, teaching R in UG stats         |
+| W. Kyle Hamilton       | University of California, Merced     | US        | Package developer   | None yet, running workshops for R/Shiny |
+| Lisa Breckels         | University of Cambridge    | UK        | Package developer | Attended SC workshop |
