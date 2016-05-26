@@ -24,6 +24,8 @@ The R consortium invites the community to submit
 
 **Good news, we [got the grant](http://software-carpentry.org/blog/2016/03/r-consortium-training.html)!**
 
+The Instructor training application is now open - http://software-carpentry.org/blog/2016/05/r-instructor-training.html.
+
 ### Summary
 
 [Suggestion](http://lists.software-carpentry.org/pipermail/r-discuss_lists.software-carpentry.org/2015-December/000354.html):
