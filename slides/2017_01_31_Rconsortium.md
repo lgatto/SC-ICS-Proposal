@@ -17,11 +17,13 @@ Software/Data Carpentry Instructor
 Senior Research Associate, University of Cambridge, UK
 ```
 
+For details and these slides, visit https://lgatto.github.io/SC-ICS-Proposal/
+
 ## The [**Software**](http://software-carpentry.org/) and [**Data Carpentry**](http://www.datacarpentry.org/)
 
 > Their **mission** is to *teach researchers in science, engineering,
-> medicine, and related disciplines the computing skills they need to
-> get more done in less time and with less pain.*
+> medicine [and humanities], and related disciplines the computing
+> skills they need to get more done in less time and with less pain.*
 
 The quality and success of the Software and Data Carpentry bootcamps
 is assured by high-quality, pedagogically sound, collaboratively
@@ -33,7 +35,7 @@ who themselves are trained in effective teaching methodology.
 
 - [Proposal](https://raw.githubusercontent.com/lgatto/SC-ICS-Proposal/master/SC-ISC-proposal.md):
   We would like to organise a 2-day in-person Software Carpentry
-  instructor training that is focused on teaching R programming:
+  instructor training with a focus on R.
 - Accepted: February 2016
 - Training: 19-20 September 2017 (Cambridge, UK), 29 participants
 - [Blog post](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september)
@@ -48,7 +50,7 @@ who themselves are trained in effective teaching methodology.
 > the group.  When we start poking people at the end of Jauary
 > ("finish or time out"), we'll see an up-tick.
 
-## Outputs: MCQ on recycling vectors in R
+## Outputs: formative assessment
 
 Q: What is the correct answer for `x + y` when:
 ```r
