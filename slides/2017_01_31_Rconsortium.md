@@ -31,10 +31,11 @@ who themselves are trained in effective teaching methodology.
 ## The workshop
 
 
-- Proposal: https://raw.githubusercontent.com/lgatto/SC-ICS-Proposal/master/SC-ISC-proposal.md
+- [Proposal](https://raw.githubusercontent.com/lgatto/SC-ICS-Proposal/master/SC-ISC-proposal.md):
+  We would like to organise a 2-day in-person Software Carpentry
+  instructor training that is focused on teaching R programming:
 - Accepted: February 2016
-- Training: 19-20 September 2017, Cambridge, UK
-- 29 participants
+- Training: 19-20 September 2017 (Cambridge, UK), 29 participants
 - [Blog post](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september)
 
 ## Outputs: Status on 6 January 2017
