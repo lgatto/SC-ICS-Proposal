@@ -21,12 +21,15 @@ The R consortium invites the community to submit
 
 ### Outputs 
 
-The course was run in Cambridge, on the 19-20 September 2016, and was
-lead by Karin Lagesen and Steve Crouch. Here's a
-[blog post](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september)
-about the course.
+- The course was run in Cambridge, on the 19-20 September 2016, and
+  was lead by Karin Lagesen and Steve Crouch. Here's a
+  [blog post](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september)
+  about the course.
   
-And some [outputs/exercises](./exercises.md) from the course.
+- Some [outputs/exercises](./exercises.md) from the course.
+
+- [Slides](https://lgatto.github.io/SC-ICS-Proposal/slides/2017_01_31_Rconsortium.html)
+  for the ISC Project Status Webinar.
 
 ### Who
 
