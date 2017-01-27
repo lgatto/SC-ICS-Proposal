@@ -44,9 +44,9 @@ who themselves are trained in effective teaching methodology.
 - about half a dozen are in progress
 - remaining dozen haven't done anything since the training ended
 
-Our one-year completion rate is somewhere 40% - 60%, depending on the
-group.  When we start poking people at the end of Jauary ("finish or
-time out"), we'll see an up-tick.
+> Our one-year completion rate is somewhere 40% - 60%, depending on
+> the group.  When we start poking people at the end of Jauary
+> ("finish or time out"), we'll see an up-tick.
 
 ## Outputs: MCQ on recycling vectors in R
 
