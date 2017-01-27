@@ -59,3 +59,5 @@ a) `2 4 4 6`    (correct)
 b) `2 3 4 5`    (added 1 to positions 3 and 4 in x)
 c) `2 4 3 4`    (forgot to recycle)
 d) `2 4`        (did not recycle the shorter vector to the longer)
+
+More examples on the [grant repo](https://github.com/lgatto/SC-ICS-Proposal/blob/master/exercises.md).
