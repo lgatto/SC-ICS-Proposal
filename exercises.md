@@ -1,4 +1,4 @@
-# MCQ questions
+# MQC for formative assessment
 
 ### Creating R functions
 
@@ -62,9 +62,9 @@ d) (thinking that you cannot add positional arguments after named arguments)
 average(c(1,2,4))
 ```	
 	
-a) `2` (median: possibly correct but not specified)
-b) `7/3` (average is a generic term often assumed to be the mean)
-c) insufficient information to answer (correct)
+1. `2` (median: possibly correct but not specified)
+2. `7/3` (average is a generic term often assumed to be the mean)
+3. insufficient information to answer (correct)
 
 
 ## What will the following return (in R)? 
@@ -123,9 +123,9 @@ the `git status` command.  In the section "Changes not staged for
 commit", it says `modified: analysis.r`. What is the next step you'll
 want to do?
 
-a) Run `git commit` to save changes (missed move to staging area)
-b) Make changes to another file, everything is saved (mistaken notice for last commit)
-c) Run `git add` to make git aware of your changes (correct)
+1. Run `git commit` to save changes (missed move to staging area)
+2. Make changes to another file, everything is saved (mistaken notice for last commit)
+3. Run `git add` to make git aware of your changes (correct)
 
 ### Subsetting
 
@@ -151,9 +151,9 @@ get_x <- function(y ){
 get_x(4)
 ```
 
-a. It will produce an error (a reasonable guess because x isn't defined in the function)
-b. `3`   (correct - it will find `x` defined in the global environment)
-c. `4`   (guessing from the value y  passed to the function)
+1. It will produce an error (a reasonable guess because x isn't defined in the function)
+2. `3`   (correct - it will find `x` defined in the global environment)
+3. `4`   (guessing from the value y  passed to the function)
 
 ### Data types
 
@@ -175,29 +175,31 @@ Students are presented witha figure showing a Poisson distribution.
 
 Q: What does this figure tell us about these data?
 
-a. The data are non-parametric - Students misunderstand key terms 
-b. The data follow a skewed normal distribution - Students recognise that the dat are not normally distributed but don't recognise the Poisson distribution
-c. The data follow a Poisson distribution - This is correct
-d. The data follow a normal distribution - Students do not recognise a normal distribution
+1. The data are non-parametric - Students misunderstand key terms 
+2. The data follow a skewed normal distribution - Students recognise
+   that the dat are not normally distrbuted but don't recognise the
+   Poisson distribution
+3. The data follow a Poisson distribution - This is correct
+4. The data follow a normal distribution - Students do not recognise a normal distribution
 
 ## R-squared
 
 What does the r-squared coefficient represent?
 
-a) the percentage of the variation in the response variable explained by the linear model
-b) the strength of the linear association between two variables
-c) the value of the slope in a linear regression
-d) the coefficient of correlation
+1. the percentage of the variation in the response variable explained by the linear model
+2. the strength of the linear association between two variables
+3. the value of the slope in a linear regression
+4. the coefficient of correlation
 
 ### Exploring data frames
 
 For a dataframe `my.df` with seven rows and four columns, which of the
 following statements is true?
 
-a) `length(rbind(my.df, my.df)) == 8`  - switching rows and columns
-b) `nrow(my.df) == length(my.df)` - df as list of column vectors
-c) `ncol(my.df) == length(my.df)` - correct
-d) `dim(rbind(my.df, my.df)) == dim(cbind(my.df, my.df))` - very close
+1. `length(rbind(my.df, my.df)) == 8`  - switching rows and columns
+2. `nrow(my.df) == length(my.df)` - df as list of column vectors
+3. `ncol(my.df) == length(my.df)` - correct
+4. `dim(rbind(my.df, my.df)) == dim(cbind(my.df, my.df))` - very close
 
 
 Given the dataframe cats of cats:
@@ -215,12 +217,16 @@ Given the dataframe cats of cats:
 What is the command to select a subset of the dataframe on what pink
 cats like to eat?
 
-1) `cats[c(3,5),]` OK but not applicable for larger dataframes (you have to know all the row numbers for your selector)
-2) `cats[which(cats$coat=="pink"),]` OK but selecting all the columns (indicating potential problem with selecting rows/columns?)
-3) `cats["pink",]` incorrect selector for rows (indicating potential problem with selectors)
-4) `cats[cats$coat=="pink","likes_to_eat"]` best answer, most specific and succint
-5) more than one are correct 
-6) `[4]`
+1. `cats[c(3,5),]` OK but not applicable for larger dataframes (you
+   have to know all the row numbers for your selector)
+2. `cats[which(cats$coat=="pink"),]` OK but selecting all the columns
+   (indicating potential problem with selecting rows/columns?)
+3. `cats["pink",]` incorrect selector for rows (indicating potential
+   problem with selectors)
+4. `cats[cats$coat=="pink","likes_to_eat"]` best answer, most specific
+   and succint
+5. more than one are correct 
+6. `[4]`
 
 ### Recycling vectors in R
 
@@ -230,7 +236,22 @@ x <- c(1, 2, 3, 4)
 y <- c(1, 2)
 ```
 
-a) `2 4 4 6`    (correct)
-b) `2 3 4 5`    (added 1 to positions 3 and 4 in x)
-c) `2 4 3 4`    (forgot to recycle)
-d) `2 4`        (did not recycle the shorter vector to the longer)
+1. `2 4 4 6`    (correct)
+2. `2 3 4 5`    (added 1 to positions 3 and 4 in x)
+3. `2 4 3 4`    (forgot to recycle)
+4. `2 4`        (did not recycle the shorter vector to the longer)
+
+### Starting with Data
+
+Using the `download.file` function example:
+
+```r
+download.file("https://ndownloader.figshare.com/files/2292169", "data/portal_data_joined.csv")
+```
+
+In which directory might we find the file we have saved?
+a) `data` (Correct)
+b) `R` 
+c) `R/Data`
+d) the *working directory*
+e) `~user`
