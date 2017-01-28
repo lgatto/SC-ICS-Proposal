@@ -1,5 +1,8 @@
 # MQC for formative assessment
 
+Exercices written by the participants in the frame
+[R Consortium-funded Software Carpentry instructor training](https://lgatto.github.io/SC-ICS-Proposal/).
+
 ### Creating R functions
 
  Assume the following function definition:
