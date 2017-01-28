@@ -250,8 +250,8 @@ download.file("https://ndownloader.figshare.com/files/2292169", "data/portal_dat
 ```
 
 In which directory might we find the file we have saved?
-a) `data` (Correct)
-b) `R` 
-c) `R/Data`
-d) the *working directory*
-e) `~user`
+1. `data` (Correct)
+2. `R` 
+3. `R/Data`
+4. the *working directory*
+5. `~user`
