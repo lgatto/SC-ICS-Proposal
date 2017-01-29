@@ -21,10 +21,14 @@ The R consortium invites the community to submit
 
 ### Outputs 
 
-- The course was run in Cambridge, on the 19-20 September 2016, and
-  was lead by Karin Lagesen and Steve Crouch. Here's a
-  [blog post](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september)
-  about the course.
+- The
+  [course](https://swcarpentry.github.io/2016-09-19-ttt-cambridge/)
+  was run in Cambridge, on the 19-20 September 2016, and was lead by
+  Karin Lagesen and Steve Crouch.
+  
+-  Here's a
+   [blog post](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september)
+   about the course.
   
 - Some [outputs/exercises](./exercises.md) from the course.
 
