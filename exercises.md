@@ -261,3 +261,36 @@ In which directory might we find the file we have saved?
 5. `~user`
 
 
+## create dataframe
+
+Say you want to exclude unhappy entries from the dataframe
+below. 
+
+```r
+age <- c(1, 4, 10)
+color <- c("red", "blue", "red")
+weight_kg <- c(5, 9, 8)
+happy <- c(TRUE, FALSE, TRUE)
+
+df <- data.frame(age, color, weight_kg, happy)
+```
+
+Which of the following commands achieve this?
+
+1. `df[df$happy == TRUE]` ## Misunderstanding of row/col selection
+2. `df[df$happy == TRUE, ]` ## Correct, but confused with logical
+3. `df[df$happy, ]` ## Correct
+4. `df[df$happy == FALSE, ]` ## Mixed up logicals
+5. `df[!df$happy, ]` ## Mixed up logicals
+6. `df[df$happy != FALSE, ]` ## Correct answer, but confusing 
+
+
+## Dimensions of a dataframe
+
+How to find the dimention of a data frame, called `x`?
+
+1. `length(x)` - Problem with the understanding of data frame multiple dimentions
+2. `str(x)` - Not the correct command to address the question, even though the answer can be found with that command
+3. `dim(x)`
+4. `colnames(x)` - The learner did not understand the question / the learner has not idea how to address the question
+
