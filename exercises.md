@@ -294,3 +294,21 @@ How to find the dimention of a data frame, called `x`?
 3. `dim(x)`
 4. `colnames(x)` - The learner did not understand the question / the learner has not idea how to address the question
 
+
+## `dplyr` and data frames
+
+Which of the following dplyr statements will return the columns called
+`name` and `phone` from the `students` data frame?
+
+1. `students %>% select(c(name, phone))`
+2. `students %>% select(name, phone)`
+3. `students %>% select(“name”, “phone”)`
+4. `students %>% select(c(“name”, “phone”))`
+
+Misconceptions identified above:
+
+1. Columns must be presented in vector of unquoted column names
+2. Correct
+3. Column names must be quoted
+4. Columns must be presented in a character vector
+

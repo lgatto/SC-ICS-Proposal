@@ -37,7 +37,7 @@ who themselves are trained in effective teaching methodology.
   We would like to organise a 2-day in-person Software Carpentry
   instructor training with a focus on R.
 - Accepted: February 2016
-- Training: 19-20 September 2017 (Cambridge, UK), 29 participants
+- Training: 19-20 September 2016 (Cambridge, UK), 29 participants
 - [Blog post](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september)
 
 ## Outputs: Status on 6 January 2017
