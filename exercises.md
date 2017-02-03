@@ -339,7 +339,8 @@ celsius_to_kelvin <- function(temp) {
   ____
 }
 ```
-#### Bonus
+
+#### Bonus question
 
 Chain functions to go from fahrenheit to celsius
 
