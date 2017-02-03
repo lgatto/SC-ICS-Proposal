@@ -340,7 +340,7 @@ celsius_to_kelvin <- function(temp) {
 }
 ```
 
-#### Bonus question
+#### Bonus questions
 
 Chain functions to go from fahrenheit to celsius
 
@@ -350,5 +350,3 @@ fahr_to_celsius <- function(temp) {
 }
 ```
 
-Diagnostic question: What is the formula to transform celius to
-kelvin?
