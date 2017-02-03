@@ -312,3 +312,42 @@ Misconceptions identified above:
 3. Column names must be quoted
 4. Columns must be presented in a character vector
 
+# Fill in the gaps
+
+#### Calculate fahrenheit to kelvin
+
+```r
+fahr_to_kelvin <- function(temp) {
+  kelvin <- ((temp - 32) * (5 / 9)) + 273.15
+  return(kelvin)
+}
+```
+
+#### Calculate Celsius to kelvin
+
+```r
+celsius_to_kelvin <- function(temp) {
+  kelvin <- ____
+  return(kelvin)
+}
+```
+
+#### Calculate Kelvin to Celsius
+
+```r
+celsius_to_kelvin <- function(temp) {
+  ____
+}
+```
+#### Bonus
+
+Chain functions to go from fahrenheit to celsius
+
+```r
+fahr_to_celsius <- function(temp) {
+  ____
+}
+```
+
+Diagnostic question: What is the formula to transform celius to
+kelvin?
