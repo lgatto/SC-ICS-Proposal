@@ -430,11 +430,13 @@ x[c(2, 3)]
 ```
 
 Now extract the first and fourth
+
 ```r
 x[___]
 ```
 
 Now extract and sum any elements 
+
 ```r
 f <- function(a, ind) {
   y <- ____   # extract elements
