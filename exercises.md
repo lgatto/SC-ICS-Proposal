@@ -314,6 +314,8 @@ Misconceptions identified above:
 
 # Fill in the gaps
 
+## Temperature conversion
+
 #### Calculate fahrenheit to kelvin
 
 ```r
@@ -350,3 +352,101 @@ fahr_to_celsius <- function(temp) {
 }
 ```
 
+
+## More temperature conversion
+
+```r
+fahr_to_kelvin <- function(temp) {
+  kelvin <- ((temp - 32) * (5 / 9)) + 273.15
+  return(kelvin)
+}
+```
+
+```r
+kelvin_to_celsius <- function(temp) {
+      celsius <- ____ - 273.15
+      return(______)
+   }
+```
+
+```r
+fahr_to_celsius <- function(____) {
+  ___ <- fahr_to_kelvin(____)
+  result <- ___________(temp_k)
+  return(result)
+}
+```
+
+Write a function which can calculate both Celsius and Kelvin given the
+temperature in Farenheit and return both results.
+
+## Adding a row to a `data.frame`
+
+Add a new `cat` to the cats `data.frame`, a 9 year-old 3.3 kg
+tortoiseshell cat, which hates string.  Be careful, because one of the
+variables is a factor, and there are no tortoiseshell cats in the
+`data.frame` yet.
+
+
+```r
+> cats
+    coat weight likes_string age
+1 calico    2.1         TRUE 4
+2  black    5.0        FALSE 5
+3  tabby    3.2         TRUE 8`
+```
+
+```r
+str(cats)
+levels(cats$_____)
+levels(cats$_____) <- c(cats$_____, ___________)
+cats <- rbind(cats, list(_____,_____,____,_____))
+```
+
+#### Diagnostic question
+
+```r
+length(levels(cats$coat)) == 4
+```
+
+## Vector manipuation and functions
+
+Here we have a numerical vector
+
+```r
+x <- c(1, 4, 5, 6)
+```
+
+Find the sum of all elements
+
+```r
+sum(x)
+```
+
+Extract the second and third element
+
+```r
+x[c(2, 3)]
+```
+
+Now extract the first and fourth
+```r
+x[___]
+```
+
+Now extract and sum any elements 
+```r
+f <- function(a, ind) {
+  y <- ____   # extract elements
+  return(___(y))
+}
+```
+
+#### Solution
+
+```r
+f <- function(a, ind) {
+  y <- a[c(ind)]
+  return(sum(y))
+}
+```
