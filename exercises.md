@@ -589,6 +589,7 @@ Write your own `kelvin_to_fahr(269.82) = > 26`
 ```r
 kelvin_to_fahr <- BLANK
 ```
+
 ## Faded examples for a lookup table pattern:
 
 1. Begin with a vector of character values
