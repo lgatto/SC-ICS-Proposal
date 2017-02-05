@@ -452,3 +452,184 @@ f <- function(a, ind) {
   return(sum(y))
 }
 ```
+
+## Plotting with `gglot2`
+
+Full example
+
+```r
+library(ggplot2)
+ggplot(data = diamonds, aes(x = carat, y = price)) +
+  geom_point() 
+```
+
+Adding color
+
+```r
+ggplot(data = diamonds, aes(x = carat, y = price,____)) +
+  geom_point() 
+```
+
+Solution
+
+```r
+ggplot(data = diamonds, aes(x = carat, y = price, color = cut)) +
+  geom_point() 
+```
+
+The color alone is difficult to see, so now use ggplot's faceting
+features to separate by cut
+
+```r
+ggplot(data = diamonds, aes(x = carat, y = price)) +
+  geom_point() + facet_wrap(______)
+```
+
+Solution
+
+```r
+ggplot(data = diamonds, aes(x = carat, y = price)) +
+  geom_point() + facet_wrap( ~ cut)
+```
+
+Now add color by calirty
+
+```r
+ggplot(data = diamonds, aes(____)) +
+  ______ + facet_wrap( ~ cut)
+```
+
+Solution
+
+```r
+ggplot(data = diamonds, aes(x = carat, y = price, color = clarity)) +
+geom_point() + facet_wrap( ~ cut)
+```
+  
+Now plot price by depth, with the color mapping to diamond color
+
+```r
+ggplot(____) +_____
+```
+
+Solution
+
+```r
+ggplot(data = diamonds, aes(x = depth, y = price, color = color)) + geom_point() 
+```
+
+
+
+## Unit conversions
+
+Complete example: Fahrenheit to kelvin
+
+```r
+fahr_to_kelvin <- function(temp) {
+  kelvin <- ((temp - 32) * (5 / 9)) + 273.15
+  return(kelvin)
+}
+fahr_to_kelvin(212)
+```
+
+Missing parts
+
+```r 
+# Convert 1 yard to 0.9144 meters
+meters2yards <- function(argument goes here) {
+  yards <- _code goes here!_
+  return(yards)
+}
+
+meters2yards()
+```
+
+
+Problem statement only
+
+```
+Write a function to convert atmospheres to pounds per square inch
+```
+
+## More unit conversion
+
+Full function `fahr_to_kelvin(26) => 269.82`
+
+```r
+fahr_to_kelvin <- function(temp) {
+  kelvin <- ((temp - 32) * (5 / 9)) + 273.15
+  return(kelvin)
+}
+```
+
+Parital code for `fahr_to_celsius(26) => -3.3`
+
+```r
+fahr_to_celsius <-function(temp) {
+        celsius <- (BLANK - 32)/1.8 
+        return(celsius)
+}
+```
+
+How does the output change is you input different temperatures? Why?
+
+Function `celsius_to_kelvin(-3.3) => 269.82`
+
+
+```r
+BLANK <- function(temp) {
+        kelvin <- BLANK
+        BLANK # What happens if you leave this line blank? Does the function still work?
+}
+```
+
+
+Write your own `kelvin_to_fahr(269.82) = > 26`
+
+```r
+kelvin_to_fahr <- BLANK
+```
+## Faded examples for a lookup table pattern:
+
+1. Begin with a vector of character values
+2. Create ordered vector of unique values (a)
+3. Create ordered vector of new values to replace unique values (b)
+4. assign (a) as names to (b) 
+5. subset result by the vector to re-label
+    
+1. Change `input <- c("2", "2", "3")` to `c("two", "two", "three")`
+
+```r
+numbers <- c("1", "2", "3")
+words <- c("one", "two", "three")
+names(words) <- numbers
+words[input]
+```
+
+2. Translate `input <- c("three", "two", "three")` to `c("tres", "dos", "tres")`
+
+```r
+english <- c("one", "two", "three")
+spanish <- c("uno",____________)
+names(spanish) <- ________
+______[input]
+```
+
+
+3. Score `input <- c("jack", "king")` to `c(11, 13)`
+
+```r
+cards <- ____________________
+scores <- ____________________
+____(scores) <- _______________
+______ [ ________ ]
+```
+
+
+Diagnostic question: (determine if student understands how character
+subsetting works in R) What does this return?
+
+```r
+c(A = 1, B = 2, C = 3) ["B"]
+```
+
