@@ -312,7 +312,7 @@ Misconceptions identified above:
 3. Column names must be quoted
 4. Columns must be presented in a character vector
 
-# Fill in the gaps
+# Faded examples
 
 ## Temperature conversion
 
@@ -590,7 +590,7 @@ Write your own `kelvin_to_fahr(269.82) = > 26`
 kelvin_to_fahr <- BLANK
 ```
 
-## Faded examples for a lookup table pattern:
+## Faded examples for a lookup table pattern
 
 1. Begin with a vector of character values
 2. Create ordered vector of unique values (a)
@@ -633,4 +633,103 @@ subsetting works in R) What does this return?
 ```r
 c(A = 1, B = 2, C = 3) ["B"]
 ```
+
+## `ggplot` faded example
+
+```r
+ggplot(surveys_complete) + geom_point(mapping = aes(x = weight, y = hindfoot_length))
+```
+
+
+Create a plot of GDPpercapita vs life expentancy using Gapminder dataset
+
+```r
+ggplot(______) + geom_point(mapping=aes(x=______, y=______))
+```
+
+Subset your graph by continent using color as an additional aestetic.
+
+```r
+ggplot(______) + geom_point(mapping=aes(x=______, y=______, ________)
+```
+
+Reduce overplotting of all groups by setting alpha parameter equal to 0.5
+
+```r
+ggplot(______) + geom_point(_____________________)
+```
+
+Add a layer with linear model (smooth function) using the same aestetics
+
+```r
+ggplot(______) + geom_point(_____________________), ___________
+```
+
+Instead of plotting a smooth line per continent, how to just plot a
+smooth line for the entire dataset.
+
+```r
+ggplot(______) + ______________ + ______________
+```
+
+## Subsetting and conditionals 
+
+Assumes learner knows about `&`, `|`, `==`, `!=`.
+
+#### Vectors
+
+```
+x <- c("d", "a", "b", "c", "c", "d")
+```
+Get values that are equal to `"d"`
+
+```r
+x[x == "d"]
+```
+
+Get values that are equal to either `"d"` or `"a"`
+
+
+```r
+x[x == "d" | _____ ]
+```
+
+Return a vector with all elements except `"c"`
+
+```r
+x[ ______ ]
+```
+
+#### data.frame
+
+```r
+y <-  read.csv("https://ndownloader.figshare.com/files/2292169")
+```
+
+Which days were recorded in December?
+
+```r
+dec_days <- y[y$month  == 12, "day"]
+barplot(table(dec_days))
+```
+
+
+What species were recorded in Dec and that are female?
+
+
+```r
+y[ ______ , ]
+```
+
+Answer
+
+```r
+spp_dec <- y[y$month == 12 & y$sex == "F", "species"]
+barplot(table(spp_dec))
+```
+
+Bonus question: Why does the barplot include all of the species?
+
+
+
 
