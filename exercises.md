@@ -730,6 +730,50 @@ barplot(table(spp_dec))
 
 Bonus question: Why does the barplot include all of the species?
 
+## Data conversion
+
+Linear conversion
+
+```r
+miles_to_kilometers <- function(miles) {
+  return(miles / 1.609344)
+}
+```
+
+Example 1: Complete the functions
+
+```r
+feet_to_miles <- function(feet) {
+  return(____ / 5280)
+}
+```
+
+```r
+kilometers_to_parsecs <- function(kilometers) {
+  return(____)
+}
+```
+
+
+Example 2: Nested function
+
+```r
+feet_to_kilometers <- function(feet) {
+  miles <- feet_to_miles(feet)
+  return(miles_to_kilometers(miles))
+}
+```
+
+```r
+feet_to_parsecs <- function(feet) {
+  miles <- feet_to_miles(feet)
+  ____
+  return(____(kilometers))
+}
+```
+
+
+
 
 
 
