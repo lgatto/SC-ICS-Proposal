@@ -772,8 +772,54 @@ feet_to_parsecs <- function(feet) {
 }
 ```
 
+## Intersection, joining, union of data frames
 
+Given these data
 
+```r
+library(dplyr)
+set.seed(1000)
 
+df1 <- data_frame(
+  x = LETTERS[1:10],
+  y = 1:10
+) %>% sample()
 
+df2 <- data_frame(
+  x = LETTERS[11:16],
+  y = 11:16
+)
+df2 <- bind_rows(df2, df1[1:4, ]) %>% sample()
+```
 
+Function returning rows in common (intersection)
+
+```r
+df_in_common <- function(df1, df2) {
+  same_x <- df1$x %in% df2$x
+  same_y <- df1$y %in% df2$y
+  same_both <- same_x + same_y == 2
+  df1[same_both, ]
+}
+```
+
+Function returning rows not in common (anti-join)
+
+```r
+df_not_in_common <- function(df1, df2) {
+  same_x <- ___ %in% ___
+  same_y <- ___ %in% ___
+  rows_not_the_same <- ___ + ___ != ___
+  df1[___, ]
+}
+```
+
+Function returning all unique rows from both (union)
+
+```r
+df_union <- function(df1, df2) {
+  all_rows <- ___
+  dup <- which(duplicated(___))
+  all_rows[___, ___]
+}
+```
