@@ -1,11 +1,22 @@
-# MQC for formative assessment
+These exercices were prepared by the participants in the
+[R Consortium-funded Software Carpentry instructor training](https://lgatto.github.io/SC-ICS-Proposal/). For
+background and more details on the methods illustrated here, see the
+[Instructor Training curriculum](https://swcarpentry.github.io/instructor-training/),
+in particular sections *Novices and Formative Assessment* for
+formative assessment and *Cognitive Load* for faded examples.
 
-Exercices written by the participants in the frame
-[R Consortium-funded Software Carpentry instructor training](https://lgatto.github.io/SC-ICS-Proposal/).
+# Multiple choice questions
+
+Multiple choice questions are a form of formative assessment taking
+place during the teaching and learning that inform both the instructor
+and the students what to focus on. The (wrong) answers are not picked
+at random, but are designed to highlight specific points of
+misunderstanding that will need to be re-explained if students
+incorrectly choose that answer.
 
 ### Creating R functions
 
- Assume the following function definition:
+Assume the following function definition:
 
 ```r
 display <- function(a = 1, b = 2, c = 3) {
@@ -313,6 +324,17 @@ Misconceptions identified above:
 4. Columns must be presented in a character vector
 
 # Faded examples
+
+From the
+[instructor training curriculum](https://swcarpentry.github.io/instructor-training/11-load/):
+
+> According to cognitive load theory, searching for a solution
+> strategy is an extra burden on top of applying that strategy. We can
+> therefore accelerate learning by giving learners worked examples
+> that show them a problem and a detailed step-by-step solution,
+> followed by a series of faded examples. The first of these presents
+> a nearly-complete use of the same problem-solving strategy just
+> demonstrated with a small number of blanks for the learner
 
 ## Temperature conversion
 
