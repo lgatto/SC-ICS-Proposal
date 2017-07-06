@@ -1,7 +1,7 @@
 # Software Carpentry ICS proposal
 
 The R consortium invites the community to submit
-[ISC Proposals](https://www.r-consortium.org/about/isc/proposals):
+[ISC Proposals](https://www.r-consortium.org/projects/call-for-proposals):
 
 > The goal of the Infrastructure Steering Committee (the ISC) is to
 > support projects that broadly help the R community. This might be
